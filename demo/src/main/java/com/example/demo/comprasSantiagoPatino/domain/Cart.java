@@ -1,7 +1,7 @@
 package com.example.demo.comprasSantiagoPatino.domain;
 
 import java.math.BigDecimal;
-import java.security.Timestamp;
+import java.sql.Timestamp;
 import java.util.List;
 
 public class Cart {
